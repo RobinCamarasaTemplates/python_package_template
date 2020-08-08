@@ -1,0 +1,15 @@
+{
+    "package_name": "package_name",
+    "package_description": "package_description",
+    "repo_url": "Url of the remote repository",
+
+    "author_name": "Your name (or your organization/company/team)",
+    "author_position": "Your position",
+    "author_institution": "Your institution",
+    "author_github": "Your institution",
+    "author_mail": "Your mail (or your organization/company/team)",
+
+    "python_version": "3.6",
+
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
+}

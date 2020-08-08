@@ -1,0 +1,17 @@
+# Pycharm
+.idea
+
+# Cache
+*.pyc
+*__pycache__*
+.pytest_cache
+
+# Django
+*migrations
+
+# Tox
+.tox
+*.egg-info
+
+# Test
+tests_output

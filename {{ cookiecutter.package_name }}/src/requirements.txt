@@ -1,0 +1,5 @@
+Click
+Sphinx
+flake8
+pytest
+tox
