@@ -86,7 +86,6 @@ def test_generate_project() -> None:
             TESTS_ROOT / EXTRA_CONTEXT['package_name'] / 'src' / item
         ).exists()
 
-    import ipdb; ipdb.set_trace() ###!!!BREAKPOINT!!!
     assert (
         TESTS_ROOT / EXTRA_CONTEXT['package_name'] / 'src' / \
         EXTRA_CONTEXT['package_name'] / '__init__.py'
